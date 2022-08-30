@@ -1,16 +1,14 @@
 # What does this MR do?
 
-Solves WT-5249
+<!-- General overview and reasoning description goes here -->
 
-Removes dependency to bandwidth calculation lip/repo by including code in site designer.
+# UI Screenshots
+
+<!-- Screenshots here if applicable -->
 
 # Any specific areas that need more careful reviewing?
 
-Unit tests
-
 # How can this be tested?
-
-Make sure bandwidth calculations works as before.
 
 # Checklist
 
